@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    margin-top: -166px;
+   
+    
+}
+.form{
+    padding: 3px;
+    margin: 3px;
+    border: -65px;
+}
+p{
+    padding: 1px;
+    margin: 2px;
+    border: -2px solid black;
+    border-radius: 9px;}
+   
+#sub{
+    padding: 5px;
+    margin:8px;
+    border: -2px solid black ;
+    border-radius: 6px;
+
+}
+#sub:hover{
+    font-size: large;
+    background-color: blue;
+}
+form{
+    background-color: aquamarine;
+    border:2px solid gray;
+    border-radius: 4px;
+    margin: 10px 450px ;
+    margin-top: 20px;
+    width: 400px;
+}
+body{
+    background-color: blanchedalmond;
+}
+#imag{
+    margin-left: 70px;
+    height: 200px;
+}
+#pal{
+   margin-bottom: -9px;
+   height: 50px;
+}
+    
